@@ -1,0 +1,10 @@
+.style{
+    position: absolute;
+    top:8px;
+    right:10px;}
+    .div{
+        position: relative;
+    }
+    .font{
+        font-size: small;
+    }
